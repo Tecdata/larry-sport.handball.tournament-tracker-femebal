@@ -1,0 +1,25 @@
+{
+  "adImages": [
+    {
+      "imagePath": "./images/logo-bna.png",
+      "redirectTo": "https://www.bna.com.ar/Personas"
+    },
+    {
+      "imagePath": "./images/logo-go7.png",
+      "redirectTo": "https://www.go7.com.ar/"
+    },
+    {
+      "imagePath": "./images/logo-cah.png",
+      "redirectTo": "https://handballargentina.org/cah/"
+    }
+  ],
+  "headerImages": [
+    {
+      "imagePath": "./logo-cah.png",
+      "redirectTo": "https://handballargentina.org/cah/"
+    }
+  ],
+  "headerColor": "#1b45a9",
+  "imageBackground": "",
+  "logoHeaderPath": "./logo-larrysport-blue-cah.png"
+}
