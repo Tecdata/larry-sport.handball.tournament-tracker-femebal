@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tournament-tracker/static/css/main.d760639c.css",
-    "main.js": "/tournament-tracker/static/js/main.afb1a876.js",
+    "main.js": "/tournament-tracker/static/js/main.71db1d23.js",
     "static/js/787.6621794f.chunk.js": "/tournament-tracker/static/js/787.6621794f.chunk.js",
     "static/media/revicons.eot": "/tournament-tracker/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/tournament-tracker/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/tournament-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tournament-tracker/index.html",
     "main.d760639c.css.map": "/tournament-tracker/static/css/main.d760639c.css.map",
-    "main.afb1a876.js.map": "/tournament-tracker/static/js/main.afb1a876.js.map",
+    "main.71db1d23.js.map": "/tournament-tracker/static/js/main.71db1d23.js.map",
     "787.6621794f.chunk.js.map": "/tournament-tracker/static/js/787.6621794f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d760639c.css",
-    "static/js/main.afb1a876.js"
+    "static/js/main.71db1d23.js"
   ]
 }
