@@ -1,10 +1,6 @@
 {
   "adImages": [
     {
-      "imagePath": "./images/logo-bna.png",
-      "redirectTo": "https://www.bna.com.ar/Personas"
-    },
-    {
       "imagePath": "./images/logo-go7.png",
       "redirectTo": "https://www.go7.com.ar/"
     },
