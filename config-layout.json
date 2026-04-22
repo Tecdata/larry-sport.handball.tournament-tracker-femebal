@@ -1,28 +1,12 @@
 {
   "adImages": [
     {
-      "imagePath": "./images/hummel.png",
-      "redirectTo": "https://www.tiendadanesa.com.ar/"
+      "imagePath": "./images/logo-go7.png",
+      "redirectTo": "https://www.go7.com.ar/"
     },
     {
-      "imagePath": "./images/actron.png",
-      "redirectTo": "https://www.actron.com.ar/"
-    },
-        {
-      "imagePath": "./images/ch1.png",
-      "redirectTo": "https://www.ch1sports.com.ar"
-    },
-        {
-      "imagePath": "./images/lg.png",
-      "redirectTo": "https://www.lg.com/ar"
-    },
-        {
-      "imagePath": "./images/bona.png",
-      "redirectTo": "https://bona.com.ar"
-    },
-        {
-      "imagePath": "./images/hipotecario.png",
-      "redirectTo": "https://hipotecarioseguros.com.ar/"
+      "imagePath": "./images/logo-cah.png",
+      "redirectTo": "https://handballargentina.org/cah/"
     }
   ],
   "headerImages": [
